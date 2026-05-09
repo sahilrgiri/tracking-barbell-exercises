@@ -77,7 +77,7 @@ Create and activate an anaconda environment and install all package versions usi
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/Manav1115/tracking-barbell-exercises.git   
+git clone https://github.com/sahilrgiri/tracking-barbell-exercises.git   
 cd tracking-barbell-exercises
 ```
 
